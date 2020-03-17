@@ -1,5 +1,5 @@
 ##baseURL = "https://crusillo2003.gitlab.io/hugopage/"
-baseURL = ""
+baseURL = "https://crusillo2003.github.io/"
 languageCode = "es-mx"
 title = "Ubaldo CJ"
 theme = "personal-web"
