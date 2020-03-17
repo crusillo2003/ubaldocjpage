@@ -1,5 +1,5 @@
 ##baseURL = "https://crusillo2003.gitlab.io/hugopage/"
-baseURL = "https://crusillo2003.github.io/"
+baseURL = ""
 languageCode = "es-mx"
 title = "Ubaldo CJ"
 theme = "personal-web"
@@ -11,8 +11,8 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Ubaldo :wave:"
-  sub = "I'm a Java Developer"
+  main = "Hola, soy Ubaldo :wave:"
+  sub = "Soy programador de Java"
 
 [taxonomies]
   design = "designs"
@@ -49,16 +49,10 @@ pygmentsCodeFences=true
   github = "https://github.com/"
   twitter = "https://twitter.com/"
   linkedin = "https://www.linkedin.com/in/"
-  medium = "https://medium.com/"
-  codepen = "https://codepen.io/"
-  facebook = "https://www.facebook.com/"
-  youtube = "https://www.youtube.com/"
-  instagram = "https://www.instagram.com/"
   gitlab = "https://gitlab.com/"
-  keybase = "https://keybase.io/"
 
 [params.contact]
-  email = ""
+  email = "ubaldocj.84@gmail.com"
   text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
